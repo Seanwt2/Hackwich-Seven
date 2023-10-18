@@ -16,7 +16,6 @@
 		786F63632AD8B8A800A7DCDB /* Hackwich_SevenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 786F63622AD8B8A800A7DCDB /* Hackwich_SevenTests.swift */; };
 		786F636D2AD8B8A800A7DCDB /* Hackwich_SevenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 786F636C2AD8B8A800A7DCDB /* Hackwich_SevenUITests.swift */; };
 		786F636F2AD8B8A800A7DCDB /* Hackwich_SevenUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 786F636E2AD8B8A800A7DCDB /* Hackwich_SevenUITestsLaunchTests.swift */; };
-		786F637C2AD8B99700A7DCDB /* ViewControllerTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 786F637B2AD8B99700A7DCDB /* ViewControllerTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		786F63682AD8B8A800A7DCDB /* Hackwich SevenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hackwich SevenUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		786F636C2AD8B8A800A7DCDB /* Hackwich_SevenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich_SevenUITests.swift; sourceTree = "<group>"; };
 		786F636E2AD8B8A800A7DCDB /* Hackwich_SevenUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich_SevenUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		786F637B2AD8B99700A7DCDB /* ViewControllerTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +102,6 @@
 				786F634B2AD8B8A600A7DCDB /* AppDelegate.swift */,
 				786F634D2AD8B8A600A7DCDB /* SceneDelegate.swift */,
 				786F634F2AD8B8A600A7DCDB /* ViewController.swift */,
-				786F637B2AD8B99700A7DCDB /* ViewControllerTwo.swift */,
 				786F63512AD8B8A600A7DCDB /* Main.storyboard */,
 				786F63542AD8B8A800A7DCDB /* Assets.xcassets */,
 				786F63562AD8B8A800A7DCDB /* LaunchScreen.storyboard */,
@@ -264,7 +261,6 @@
 				786F63502AD8B8A600A7DCDB /* ViewController.swift in Sources */,
 				786F634C2AD8B8A600A7DCDB /* AppDelegate.swift in Sources */,
 				786F634E2AD8B8A600A7DCDB /* SceneDelegate.swift in Sources */,
-				786F637C2AD8B99700A7DCDB /* ViewControllerTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
